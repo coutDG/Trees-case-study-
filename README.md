@@ -87,7 +87,7 @@ Each dataset uses its own study folder. Notebook names differ between experiment
 
 | Location inside a study folder | Contents |
 |---|---|
-| `data/raw/` | Original downloaded data |
+| `data/raw/` | Original downloaded data , Removed the raw data , Download from kaggle when needed| 
 | `data/splits/` | Saved split files or row assignments |
 | `data/processed/` | Prepared inputs where materialized, including HIGGS NumPy arrays |
 | `notebooks/` | Splitting, EDA where applicable, preprocessing, training and evaluation |
