@@ -1,3 +1,5 @@
+![Trees case study](<trees case study.jpg>)
+
 # Random Forest vs XGBoost vs LightGBM vs CatBoost
 
 A practical comparison of tree-based models across **Home Credit, Adult Census Income, Amazon Employee Access and HIGGS**.
