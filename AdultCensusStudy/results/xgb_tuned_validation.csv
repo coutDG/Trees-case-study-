@@ -1,0 +1,2 @@
+Model,Representation,Version,Study_Name,Budget_Seconds,Validation_ROC_AUC,Validation_AP,Validation_Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+XGBoost,Native,Tuned,adult_xgb_native_10min_v1,600,0.9324586649774619,0.8339915444046058,0.2701605558395386,1.1945512000238523,0.03022600000258535,601.7067193999828

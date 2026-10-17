@@ -1,0 +1,2 @@
+Model,Representation,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP_Approval,Validation_AP_Denial,Fit_Seconds,Tuning_Seconds,Completed_Trials,CPU_Threads
+Random Forest,One-hot,0.18132941242736977,0.8001081961429557,0.976841715306594,0.31161536549343777,4.485610399977304,602.5735814000072,75,4

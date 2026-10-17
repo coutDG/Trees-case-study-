@@ -1,0 +1,2 @@
+Model,Representation,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP_Approval,Validation_AP_Denial,Fit_Seconds,Tuning_Seconds,Completed_Trials,CPU_Threads
+XGBoost,Native,0.15455584228038788,0.8590788957454509,0.9858273601894034,0.4364658375564551,13.838218500022776,602.2496591999952,40,4

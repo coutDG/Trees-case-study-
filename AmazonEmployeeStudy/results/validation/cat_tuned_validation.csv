@@ -1,0 +1,2 @@
+Model,Representation,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP_Approval,Validation_AP_Denial,Fit_Seconds,Tuning_Seconds,Completed_Trials,CPU_Threads
+CatBoost,Native,0.1397948452616809,0.8962396708039208,0.9908119677475171,0.5093084325114468,89.94991319999099,629.8958501000016,13,4

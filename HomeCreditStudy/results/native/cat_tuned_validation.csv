@@ -1,0 +1,2 @@
+Model,Version,Feature_Set,ROC_AUC,Average_Precision,Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+CatBoost,Tuned,Engineered,0.7646121141389155,0.2553351219431569,0.24403435295921164,214.29715640001814,0.4308788999915123,1842.9654029000085

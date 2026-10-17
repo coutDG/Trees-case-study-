@@ -1,0 +1,27 @@
+Comparison,Metric,Model_A,Model_B,Difference_B_Minus_A,Lower,Upper
+Tuning: CatBoost | Native,ROC_AUC,cat_native_baseline,cat_native_tuned,0.0019459083628361462,0.0007738420636949768,0.003145801488469397
+Tuning: CatBoost | Native,Average_Precision,cat_native_baseline,cat_native_tuned,0.0033444552593739907,0.00013179676326936882,0.006373514767995988
+Tuning: CatBoost | One-hot,ROC_AUC,cat_onehot_baseline,cat_onehot_tuned,0.002933985200011535,0.001612899472107901,0.004219672007835138
+Tuning: CatBoost | One-hot,Average_Precision,cat_onehot_baseline,cat_onehot_tuned,0.005140493051247308,0.0016366227436453162,0.00874117867712053
+Tuning: LightGBM | Native,ROC_AUC,lgb_native_baseline,lgb_native_tuned,0.0015746560298753876,-0.0003160817120405834,0.0031743804897678115
+Tuning: LightGBM | Native,Average_Precision,lgb_native_baseline,lgb_native_tuned,0.0005510952741245856,-0.003254331380487392,0.003902990362670564
+Tuning: LightGBM | One-hot,ROC_AUC,lgb_onehot_baseline,lgb_onehot_tuned,0.0017117668421865462,9.762583043833045e-05,0.003689763194409385
+Tuning: LightGBM | One-hot,Average_Precision,lgb_onehot_baseline,lgb_onehot_tuned,-0.00017624135145566378,-0.003958474601870486,0.0038519993796759687
+Tuning: Random Forest | One-hot,ROC_AUC,rf_onehot_baseline,rf_onehot_tuned,0.0054850024417896215,0.0030452285449981214,0.008080018980832692
+Tuning: Random Forest | One-hot,Average_Precision,rf_onehot_baseline,rf_onehot_tuned,0.004717028617238356,0.0010891048259140752,0.008357427106816634
+Tuning: XGBoost | Native,ROC_AUC,xgb_native_baseline,xgb_native_tuned,0.0036384584131906594,0.0015018263203263162,0.005461651459109574
+Tuning: XGBoost | Native,Average_Precision,xgb_native_baseline,xgb_native_tuned,0.006577081685251507,0.0025634727977426074,0.010236045401222303
+Tuning: XGBoost | One-hot,ROC_AUC,xgb_onehot_baseline,xgb_onehot_tuned,0.0022271815273188222,0.0007922172303384045,0.003683689196823051
+Tuning: XGBoost | One-hot,Average_Precision,xgb_onehot_baseline,xgb_onehot_tuned,0.003744651134888033,0.0006427650621326928,0.006945520227548214
+Native minus one-hot: CatBoost | Baseline,ROC_AUC,cat_onehot_baseline,cat_native_baseline,0.0006519460489503581,-0.00027744342157246524,0.00159152368052124
+Native minus one-hot: CatBoost | Baseline,Average_Precision,cat_onehot_baseline,cat_native_baseline,0.0009813213633761975,-0.0017630898195456163,0.003682406832567654
+Native minus one-hot: CatBoost | Tuned,ROC_AUC,cat_onehot_tuned,cat_native_tuned,-0.00033613078822503084,-0.0015263246426867104,0.0009206138339167559
+Native minus one-hot: CatBoost | Tuned,Average_Precision,cat_onehot_tuned,cat_native_tuned,-0.0008147164284971198,-0.004577865125648663,0.0025885295383672046
+Native minus one-hot: LightGBM | Baseline,ROC_AUC,lgb_onehot_baseline,lgb_native_baseline,-0.0009795972575862288,-0.002787001440299927,0.0009303501517952013
+Native minus one-hot: LightGBM | Baseline,Average_Precision,lgb_onehot_baseline,lgb_native_baseline,-0.0034044359358685328,-0.006661972787524912,-8.991384651139037e-06
+Native minus one-hot: LightGBM | Tuned,ROC_AUC,lgb_onehot_tuned,lgb_native_tuned,-0.0011167080698973875,-0.0026002649808460564,0.00046320827572528055
+Native minus one-hot: LightGBM | Tuned,Average_Precision,lgb_onehot_tuned,lgb_native_tuned,-0.0026770993102882834,-0.00670715744861487,0.0005761622538381741
+Native minus one-hot: XGBoost | Baseline,ROC_AUC,xgb_onehot_baseline,xgb_native_baseline,-0.001706776619097572,-0.0037008981046347143,0.0006633543765382618
+Native minus one-hot: XGBoost | Baseline,Average_Precision,xgb_onehot_baseline,xgb_native_baseline,-0.0026242095274403576,-0.006891364043795286,0.0013234341157371988
+Native minus one-hot: XGBoost | Tuned,ROC_AUC,xgb_onehot_tuned,xgb_native_tuned,-0.00029549973322573475,-0.0017265945491616113,0.0010340041463940105
+Native minus one-hot: XGBoost | Tuned,Average_Precision,xgb_onehot_tuned,xgb_native_tuned,0.00020822102292311628,-0.002542437924046858,0.0031129297363713063

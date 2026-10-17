@@ -1,0 +1,2 @@
+Model,Representation,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP_Approval,Validation_AP_Denial,Fit_Seconds,Tuning_Seconds,Completed_Trials,CPU_Threads
+LightGBM,Native,0.15180966329628526,0.8625148646141587,0.9852525499331823,0.4493000606244561,1.679198500001803,600.0171888000041,277,4

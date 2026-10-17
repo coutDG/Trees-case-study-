@@ -1,0 +1,2 @@
+Model,Representation,Version,Validation_ROC_AUC,Validation_AP,Validation_Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+LightGBM,Native,Tuned,0.9313848953886548,0.8327344000108563,0.27210275698280467,1.5107428999908734,0.2116561000002548,600.2532252999954

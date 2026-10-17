@@ -1,0 +1,2 @@
+Model,Representation,Version,Validation_ROC_AUC,Validation_AP,Validation_Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+Random Forest,One-hot,Tuned,0.918839222598621,0.8042473291023855,0.3482192010930369,2.7493099000130314,0.0920128999860026,605.1804114000115

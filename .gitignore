@@ -1,0 +1,12 @@
+**/data/
+**/artifacts/
+**/predictions/
+*.joblib
+*.pkl
+*.cbm
+*.ubj
+*.db
+*.db-shm
+*.db-wal
+**/__pycache__/
+**/.ipynb_checkpoints/

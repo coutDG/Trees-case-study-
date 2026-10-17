@@ -1,0 +1,13 @@
+Feature,Importance
+numeric__age,4546
+numeric__hours.per.week,3510
+numeric__capital.gain,3326
+numeric__education.num,2604
+numeric__capital.loss,2546
+categorical__occupation,1451
+categorical__workclass,903
+categorical__sex,769
+categorical__native.country,724
+categorical__relationship,608
+categorical__marital.status,452
+categorical__race,261

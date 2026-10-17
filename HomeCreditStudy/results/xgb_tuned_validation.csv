@@ -1,0 +1,2 @@
+Model,Version,Feature_Set,ROC_AUC,Average_Precision,Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+XGBoost,Tuned,Engineered + filtered,0.7645760838416247,0.2552148682845909,0.24408330023288727,30.497951700002886,0.19581340000149794,1829.0010664000001

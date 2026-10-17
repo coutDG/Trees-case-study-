@@ -1,0 +1,5 @@
+Key,Model,Representation,Model_Path,Recorded_Validation_AUC,Fit_Seconds,Tuning_Seconds
+rf,Random Forest,One-hot,C:\Case Study Trees\AdultCensusStudy\artifacts\adult_rf_tuned.joblib,0.918839222598621,2.7493099000130314,605.1804114000115
+lgb,LightGBM,Native,C:\Case Study Trees\AdultCensusStudy\artifacts\adult_lgb_tuned.joblib,0.9313848953886548,1.5107428999908734,600.2532252999954
+cat,CatBoost,Native,C:\Case Study Trees\AdultCensusStudy\artifacts\adult_cat_tuned.joblib,0.9296791658633764,36.19990810001036,624.6657506000192
+xgb,XGBoost,Native,C:\Case Study Trees\AdultCensusStudy\artifacts\adult_xgb_tuned.joblib,0.932458664977462,1.1945512000238525,601.7067193999828

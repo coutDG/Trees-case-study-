@@ -1,0 +1,13 @@
+{
+  "Python": "3.11.16",
+  "Platform": "Windows-10-10.0.26200-SP0",
+  "CPU_Threads": 4,
+  "pandas": "2.3.3",
+  "numpy": "2.3.5",
+  "scikit-learn": "1.9.1",
+  "xgboost": "3.2.0",
+  "lightgbm": "4.7.0",
+  "catboost": "1.2.10",
+  "optuna": "5.0.0",
+  "joblib": "1.6.0"
+}

@@ -1,0 +1,7 @@
+Category,Winner
+Validation-selected model,CatBoost
+Lowest observed test log loss,CatBoost
+Highest test ROC-AUC,CatBoost
+Highest test denial AP,CatBoost
+Fastest final training,LightGBM
+Fastest pipeline inference,CatBoost

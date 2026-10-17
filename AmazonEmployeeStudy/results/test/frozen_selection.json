@@ -1,0 +1,11 @@
+{
+  "Selection_Metric": "Validation_Log_Loss",
+  "Validation_Selected_Model": "CatBoost",
+  "Threshold_Objective": "Validation F1 for ACTION=1 (approval)",
+  "Thresholds": {
+    "rf": 0.5991999990250672,
+    "xgb": 0.4584946036338806,
+    "lgb": 0.5176021549314626,
+    "cat": 0.519936764256392
+  }
+}

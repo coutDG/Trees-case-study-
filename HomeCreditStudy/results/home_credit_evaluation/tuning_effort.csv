@@ -1,0 +1,8 @@
+Algorithm,Representation,Completed_Trials,Recorded_Trial_Seconds
+Random Forest,One-hot,4,1991.43384
+XGBoost,One-hot,58,1820.214435
+LightGBM,One-hot,73,1807.087277
+CatBoost,One-hot,38,1837.481711
+XGBoost,Native,70,1792.4693230000003
+LightGBM,Native,68,1808.3040070000002
+CatBoost,Native,7,1841.9758840000002

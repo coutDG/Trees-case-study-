@@ -1,0 +1,7 @@
+Category,Winner
+Validation-selected model,XGBoost
+Lowest observed test log loss,XGBoost
+Highest observed test ROC-AUC,XGBoost
+Highest observed test AP,XGBoost
+Fastest recorded final fit,LightGBM
+Fastest median batch inference,CatBoost

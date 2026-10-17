@@ -1,0 +1,2 @@
+Model,Version,Feature_Set,ROC_AUC,Average_Precision,Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+LightGBM,Tuned,Engineered + filtered,0.7651776748665996,0.2552011861554922,0.2441099246793843,21.376941800001077,1.939524600005825,1820.3074288000062

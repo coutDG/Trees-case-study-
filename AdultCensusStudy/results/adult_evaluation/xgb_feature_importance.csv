@@ -1,0 +1,13 @@
+Feature,Importance
+categorical__relationship,0.3683855
+categorical__marital.status,0.18372254
+numeric__education.num,0.12762518
+numeric__capital.gain,0.07348616
+categorical__occupation,0.06922964
+numeric__age,0.04711597
+numeric__capital.loss,0.033876427
+numeric__hours.per.week,0.032406833
+categorical__sex,0.023313202
+categorical__workclass,0.01890135
+categorical__race,0.012756554
+categorical__native.country,0.009180704

@@ -1,0 +1,2 @@
+Model,Version,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP,Fit_Seconds,Validation_Prediction_Seconds,CPU_Threads
+XGBoost,Baseline,0.5267342925071716,0.8121380511947449,0.8278559223062769,96.24740689998725,0.3781303000287153,4

@@ -1,0 +1,7 @@
+Parameter,Value
+n_estimators,200
+max_depth,16
+min_samples_split,17
+min_samples_leaf,2
+max_features,0.3
+class_weight,balanced

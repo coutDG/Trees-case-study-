@@ -1,0 +1,7 @@
+Parameter,Value
+iterations,600.0
+learning_rate,0.0838375512850209
+depth,4.0
+l2_leaf_reg,5.748924681991978
+random_strength,0.59874749104614
+bagging_temperature,0.23225206359998862

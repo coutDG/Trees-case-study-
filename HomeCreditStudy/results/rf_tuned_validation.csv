@@ -1,0 +1,2 @@
+Model,Version,Feature_Set,ROC_AUC,Average_Precision,Log_Loss,Fit_Seconds,Prediction_Seconds
+Random Forest,Tuned,Engineered + filtered,0.7514563028835408,0.2401678739023001,0.2506445468808096,76.84462780000467,1.1123561999993399

@@ -1,0 +1,2 @@
+Model,Representation,Version,Study_Name,Budget_Seconds,Validation_ROC_AUC,Validation_AP,Validation_Log_Loss,Fit_Seconds,Prediction_Seconds,Tuning_Seconds
+CatBoost,Native,Tuned,adult_cat_native_10min_v1,600,0.9296791658633765,0.8281524823286939,0.27593846530374627,36.19990810001036,0.029357299994444475,624.6657506000192

@@ -1,0 +1,2 @@
+Model,Version,Validation_Log_Loss,Validation_ROC_AUC,Validation_AP,Fit_Seconds,Validation_Prediction_Seconds,CPU_Threads
+LightGBM,Baseline,0.5303369468877113,0.8090706573149272,0.8250306822466786,92.58921830001054,1.533104399975855,4
